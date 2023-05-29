@@ -1,0 +1,58 @@
+export default [
+  {
+    image: "/assets/car.webp",
+    title: "Auction Title One",
+    subtitle: "Auction Details Information From Our",
+    date: "12-11-1940",
+    city: "Amman",
+  },
+  {
+    image: "/assets/car.webp",
+    title: "Auction Title Two",
+    subtitle: "Auction Details Information From Our",
+    date: "12-11-1940",
+    city: "Amman",
+  },
+  {
+    image: "/assets/car.webp",
+    title: "Auction Title Three",
+    subtitle: "Auction Details Information From Our",
+    date: "12-11-1940",
+    city: "Amman",
+  },
+  {
+    image: "/assets/car.webp",
+    title: "Auction Title Four",
+    subtitle: "Auction Details Information From Our",
+    date: "12-11-1940",
+    city: "Amman",
+  },
+  {
+    image: "/assets/car.webp",
+    title: "Auction Title Five",
+    subtitle: "Auction Details Information From Our",
+    date: "12-11-1940",
+    city: "Amman",
+  },
+  {
+    image: "/assets/car.webp",
+    title: "Auction Title Six",
+    subtitle: "Auction Details Information From Our",
+    date: "12-11-1940",
+    city: "Amman",
+  },
+  {
+    image: "/assets/car.webp",
+    title: "Auction Title Seven",
+    subtitle: "Auction Details Information From Our",
+    date: "12-11-1940",
+    city: "Amman",
+  },
+  {
+    image: "/assets/car.webp",
+    title: "Auction Title Eight",
+    subtitle: "Auction Details Information From Our",
+    date: "12-11-1940",
+    city: "Amman",
+  },
+];
